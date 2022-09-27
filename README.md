@@ -1,4 +1,4 @@
-# awesome-human-like-multi-fingered-graspinig[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-human-like-multi-fingered-grasping[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of papers, codes and resources of human-like functional multi-fingered grasping.
 
 ## Papers
