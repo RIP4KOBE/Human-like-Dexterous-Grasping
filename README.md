@@ -29,7 +29,7 @@ A collection of papers, codes and resources of human-like functional multi-finge
 
 [Natural object manipulation using anthropomorphic robotic hand through deep reinforcement learning and deep grasping probability network](https://link.springer.com/content/pdf/10.1007/s10489-020-01870-6.pdf) Applied Intelligence 2021
 
-[Learning Task-Oriented Dexterous Grasping from Human Knowledge (http://sro.sussex.ac.uk/id/eprint/97502/1/ICRA21__home_papercept_ras.papercept.net_www_conferences_conferences_ICRA21_submissions_2332_MS.pdf) ICRA 2021
+[Learning Task-Oriented Dexterous Grasping from Human Knowledge](http://sro.sussex.ac.uk/id/eprint/97502/1/ICRA21__home_papercept_ras.papercept.net_www_conferences_conferences_ICRA21_submissions_2332_MS.pdf) ICRA 2021
 
 ### Other Method
 [ContactGrasp: Functional Multi-finger Grasp Synthesis from Contact](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8967960) IROS 2019 | [video](https://www.youtube.com/watch?v=oico10ih54c) | [website](https://contactdb.cc.gatech.edu/contactgrasp.html) | [code](https://github.com/contactgrasp/dart) 
