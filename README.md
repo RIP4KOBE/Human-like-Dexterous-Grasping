@@ -7,7 +7,7 @@ A collection of papers, codes and resources of human-like functional multi-finge
 
 ### Deep Learning
 
-[CaTGrasp: Learning Category-Level Task-Relevant Grasping in Clutter from Simulation](https://arxiv.org/pdf/2109.09163.pdf) arXiv 2022 | [website](https://sites.google.com/view/catgrasp) | [code]([https://github.com/enriccorona/GanHand](https://github.com/wenbowen123/catgrasp)
+[CaTGrasp: Learning Category-Level Task-Relevant Grasping in Clutter from Simulation](https://arxiv.org/pdf/2109.09163.pdf) arXiv 2022 | [website](https://sites.google.com/view/catgrasp) | [code](https://github.com/wenbowen123/catgrasp)
 
 [Toward Human-Like Grasp : Dexterous Grasping via Semantic Representation of Object-Hand](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156512) ICCV 2021
 
