@@ -25,6 +25,8 @@ A collection of papers, codes and resources of human-like functional multi-finge
 
 [Learning Dexterous Grasping with Object-Centric Visual Affordances](https://arxiv.org/pdf/2009.01439.pdf) ICRA 2021 | [website](https://vision.cs.utexas.edu/projects/graff-dexterous-affordance-grasp/)
 
+[DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DkSnfpHJBJOt#=&zoom=200) CoRL 2021 | [webisite](https://vision.cs.utexas.edu/projects/dexvip-dexterous-grasp-pose-prior/)
+
 [Natural object manipulation using anthropomorphic robotic hand through deep reinforcement learning and deep grasping probability network](https://link.springer.com/content/pdf/10.1007/s10489-020-01870-6.pdf) Applied Intelligence 2021
 
 [Learning Task-Oriented Dexterous Grasping from Human Knowledge (http://sro.sussex.ac.uk/id/eprint/97502/1/ICRA21__home_papercept_ras.papercept.net_www_conferences_conferences_ICRA21_submissions_2332_MS.pdf) ICRA 2021
