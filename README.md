@@ -11,7 +11,7 @@ A collection of papers, codes and resources of human-like functional multi-finge
 
 [Ganhand: Predicting human grasp affordances in multi-object scenes](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Toward_Human-Like_Grasp_Dexterous_Grasping_via_Semantic_Representation_of_Object-Hand_ICCV_2021_paper.pdf) CVPR 2020 | [video](https://www.youtube.com/watch?v=1rN66OC6fyc) | [code](https://github.com/enriccorona/GanHand)
 
-[Learning Grasp Affordance Reasoning through Semantic Relations](https://arxiv.org/pdf/1906.09836.pdf) RAL 2019 | [video](https://www.youtube.com/watch?v=aaA3NA-S5KY) | [code](https://github.com/enriccorona/GanHand) | [website](https://paolaardon.github.io/grasp_affordance_reasoning/) | [code](https://github.com/PaolaArdon/grasp_affordance_reasoning_demo)
+[Learning Grasp Affordance Reasoning through Semantic Relations](https://arxiv.org/pdf/1906.09836.pdf) RAL 2019 | [video](https://www.youtube.com/watch?v=aaA3NA-S5KY) | [website](https://paolaardon.github.io/grasp_affordance_reasoning/) | [code](https://github.com/PaolaArdon/grasp_affordance_reasoning_demo)
 
 [Learning from humans how to grasp: A data-driven architecture for autonomous grasping with anthropomorphic soft hands](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8629968) RAL 2019
 
