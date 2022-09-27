@@ -15,6 +15,7 @@ A collection of papers, codes and resources of human-like functional multi-finge
 ### Deep Renforcement Learning
 
 [Learning Dexterous Grasping with Object-Centric Visual Affordances](https://arxiv.org/pdf/2009.01439.pdf) ICRA 2021 | [website](https://vision.cs.utexas.edu/projects/graff-dexterous-affordance-grasp/)
+
 [Natural object manipulation using anthropomorphic robotic hand through deep reinforcement learning and deep grasping probability network](https://link.springer.com/content/pdf/10.1007/s10489-020-01870-6.pdf) Applied Intelligence 2021
 
 
