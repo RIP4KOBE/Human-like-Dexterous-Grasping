@@ -1,4 +1,4 @@
-# Human-like-Dexterous-Graspinig
+# Human-like-Dexterous-Grasping
 A collection of papers, codes and resources related to human-like dexterous multi-fingered grasping.
 
 ## Papers
